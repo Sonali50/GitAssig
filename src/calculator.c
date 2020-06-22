@@ -3,6 +3,10 @@ void calculator()
 {
 	printf("I am a empty calculator");
 }
+int addition(int a,int b)
+{
+return a+b;
+}
 int main()
 {
 	calculator();
